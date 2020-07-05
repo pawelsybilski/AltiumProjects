@@ -1,3 +1,3 @@
 # DevelopmentBoard
 
-Schemty zrobione w Altium Designer 17
+Schematy zrobione w Altium Designer 17
